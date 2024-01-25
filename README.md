@@ -1,2 +1,2 @@
 # Game
-Learning Project.
+Learning Project. Game.
